@@ -1,12 +1,14 @@
-**Project Name:** Horiseon Main Page
+### Project Name:
+Horiseon Main Page
 
-**Description:** This page was created by following this user story:
+### Description:
+This page was created by following this user story:
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-**With acceptance criteria that is as follows:** 
+### With acceptance criteria that is as follows: 
 
 GIVEN a webpage meets accessibility standards
 
@@ -25,12 +27,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-**About:**
+### About:
 This is the main landing page for a Search Engine Optimization company called Horiseon. It gives basic information on the services they offer, including search engine optimization,
 online reputation management, social media marketing, lead generation, brand awareness, and cost management. 
 
-**Features:**
+### Features:
 Features links at the top of the page that aid through UX improvements. 
 
-**Prerequisites:**
+### Prerequisites:
 Nothing special needed to run this page.
